@@ -3,7 +3,6 @@ export const COLORS = {
   border: "#1C2A45", accent: "#5B8FF9", teal: "#00C9A7",
   text: "#EEF2FF", muted: "#7C8DB5", dim: "#3D4F6E",
 };
-
 export const MOTIVATIONAL_QUOTES = [
   { quote: "The secret of getting ahead is getting started.", author: "Mark Twain" },
   { quote: "Every application is a step closer to the offer.", author: "CareerCraft" },
