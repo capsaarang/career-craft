@@ -5,7 +5,6 @@
 Built by [Saarang Govinda Rajan](https://capsaarang.github.io/myportfolio/) · Powered by Anthropic Claude API + Supabase
 
 ## Features
-
 - **✦ Tailor Resume** — 3-panel input: original resume + LaTeX template + JD → perfectly tailored LaTeX output in seconds
 - **⊞ Application Tracker** — track every application with status, interview dates, notes, CSV export
 - **❋ Community Feed** — share tips, celebrate wins, ask questions, upvote helpful posts
